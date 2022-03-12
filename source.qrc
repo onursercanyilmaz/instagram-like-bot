@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="insta">
+    <file>images/instalogin.png</file>
+  </qresource>
+</RCC>
